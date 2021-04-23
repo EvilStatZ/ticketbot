@@ -1,2 +1,4 @@
 # ticketbot
-This is a bot that makes tickets using discord.js
+
+Ticketbot is a discord bot made by EvilStatZ using discord.js.
+ 
